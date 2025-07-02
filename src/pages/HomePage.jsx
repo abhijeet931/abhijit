@@ -58,7 +58,7 @@ const HomePage = () => {
       <h2>Campus Life & Facilities</h2>
       <div className="image-gallery">
         <img
-          src="./public/Images/students-studying.jpeg"
+          src="/Images/students-studying.jpeg"
           alt="Students studying in library"
         />
         <img src="/Images/campus-life.jpg" alt="Students on campus ground" />
